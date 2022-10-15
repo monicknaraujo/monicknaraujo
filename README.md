@@ -6,7 +6,7 @@
 </h1>
 <p>Meu nome é Monick Araujo, e estou em transição de carreira. Gosto muito de falar sobre psicanálise, filmes de terror e viagens.</p>
 
-<p>Sou formada em psicologia e agora curso Análise e Desenvolvimento de Sistemas, ainda procurando a área de tecnologia que eu me encante.</p>
+<p>Sou formada em psicologia e agora curso Análise e Desenvolvimento de Sistemas, ainda procurando a área de tecnologia que me encante.</p>
  
 
 <h2 align="left">Linguagens e ferramentas:</h2>
