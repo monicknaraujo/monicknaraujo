@@ -1,1 +1,1 @@
-<img src="https://pin.it/369MbUS" min-width="250px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://cdn.dribbble.com/users/258567/screenshots/5474291/media/e18580c976c73d1cf0912b5093e7d5b1.gif" min-width="250px" max-width="400px" width="400px" align="right" alt="gif with image of a crow">
