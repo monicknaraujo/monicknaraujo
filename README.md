@@ -1,7 +1,9 @@
 <img src="https://cdn.dribbble.com/users/258567/screenshots/5474291/media/e18580c976c73d1cf0912b5093e7d5b1.gif" min-width="250px" max-width="400px" width="400px" align="right" alt="gif with image of a crow">
 
 <p align="left"> 
-<h1> <blink> Hey u!</h1> </blink>
+<h1> 
+ <mark> What’s up? </mark>
+</h1>
 <p>Meu nome é Monick Araujo, e estou em transição de carreira. Gosto muito de falar sobre psicanálise, filmes de terror e viagens.</p>
 
 <p>Sou formada em psicologia e agora curso Análise e Desenvolvimento de Sistemas, ainda procurando a área de tecnologia que eu me encante.</p>
